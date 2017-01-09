@@ -1,3 +1,3 @@
-Exemple de module prestashop
+Sample Prestashop 1.6 module
 
-Création d'un client à partir d'un formulaire de 3 champs et de valeurs par défaut.
+A form to create a new customer with 3 fields and default values for other fields.
